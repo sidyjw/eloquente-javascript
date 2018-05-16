@@ -1,8 +1,7 @@
-# Sumário
+# Summary
 
-[Introdução](chapters/00-introducao.md)
-
-* [Valores, Tipos e Operadores](chapters/01-valores-tipos-operadores.md) - (**Parte 1: Linguagem**)
+* [Introduction](README.md)
+* [Valores, Tipos e Operadores](chapters/01-valores-tipos-operadores.md)
 * [Estrutura do Programa](chapters/02-estrutura-do-programa.md)
 * [Funções](chapters/03-funcoes.md)
 * [Estrutura de Dados: Objeto e Array](chapters/04-estruturas-de-dados.md)
@@ -13,13 +12,14 @@
 * [Expressões Regulares](chapters/09-expressoes-regulares.md)
 * [Módulos](chapters/10-modulos.md)
 * [Prática: A Linguagem de Programação](chapters/11-pratica-linguagem-de-programacao.md)
-* [JavaScript e o Navegador](chapters/12-javascript-e-o-navegador.md) - (**Parte 2: Navegador**)
-* [O *Document Object Model*](chapters/13-document-object-model.md)
+* [JavaScript e o Navegador](chapters/12-javascript-e-o-navegador.md)
+* [O Document Object Model](chapters/13-document-object-model.md)
 * [Manipulando Eventos](chapters/14-manipulando-eventos.md)
 * [Projeto: Plataforma de Jogo](chapters/15-projeto-plataforma-de-jogo.md)
 * [Desenhando no Canvas](chapters/16-desenhando-no-canvas.md)
 * [HTTP](chapters/17-http.md)
 * [Formulários e Campos de Formulários](chapters/18-formularios-e-campos-de-formularios.md)
 * [Projeto: Um Programa de Pintura](chapters/19-projeto-um-programa-de-pintura.md)
-* [Node.js](chapters/20-nodejs.md) - (**Parte 3: Node.js**)
+* [Node.js](chapters/20-nodejs.md)
 * [Projeto: Website de Compartilhamento de Habilidades](chapters/21-projeto-website-de-compartilhamento-de-habilidades.md)
+
